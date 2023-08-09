@@ -38,7 +38,7 @@ require (
 	golang.org/x/crypto v0.10.0
 	golang.org/x/image v0.7.0
 	golang.org/x/net v0.11.0
-	golang.org/x/oauth2 v0.4.0
+	golang.org/x/oauth2 v0.5.0
 	gorm.io/driver/mysql v1.4.7
 	gorm.io/driver/postgres v1.4.8
 	gorm.io/driver/sqlite v1.4.4
@@ -84,13 +84,14 @@ require (
 	github.com/go-sql-driver/mysql v1.7.0 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/golang/geo v0.0.0-20210211234256-740aa86cb551 // indirect
-	github.com/golang/protobuf v1.5.2 // indirect
+	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
+	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/ipfs/boxo v0.8.0 // indirect
-	github.com/ipfs/go-cid v0.4.0 // indirect
+	github.com/ipfs/go-cid v0.4.1 // indirect
 	github.com/jackc/pgpassfile v1.0.0 // indirect
 	github.com/jackc/pgservicefile v0.0.0-20221227161230-091c0ba34f0a // indirect
 	github.com/jackc/pgx/v5 v5.3.0 // indirect
@@ -102,7 +103,7 @@ require (
 	github.com/leodido/go-urn v1.2.4 // indirect
 	github.com/libp2p/go-buffer-pool v0.1.0 // indirect
 	github.com/libp2p/go-flow-metrics v0.1.0 // indirect
-	github.com/libp2p/go-libp2p v0.26.3 // indirect
+	github.com/libp2p/go-libp2p v0.27.8 // indirect
 	github.com/mattn/go-isatty v0.0.19 // indirect
 	github.com/mattn/go-sqlite3 v1.14.15 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
@@ -113,8 +114,8 @@ require (
 	github.com/mschoch/smat v0.2.0 // indirect
 	github.com/multiformats/go-base32 v0.1.0 // indirect
 	github.com/multiformats/go-base36 v0.2.0 // indirect
-	github.com/multiformats/go-multiaddr v0.8.0 // indirect
-	github.com/multiformats/go-multibase v0.1.1 // indirect
+	github.com/multiformats/go-multiaddr v0.9.0 // indirect
+	github.com/multiformats/go-multibase v0.2.0 // indirect
 	github.com/multiformats/go-multicodec v0.8.1 // indirect
 	github.com/multiformats/go-multihash v0.2.1 // indirect
 	github.com/multiformats/go-multistream v0.4.1 // indirect
